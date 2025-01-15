@@ -1,5 +1,5 @@
 # Size-structure
-Repository created for the submission: Spatial variation in coral size structure is driven by exposure and cross-shelf position
+Repository created for the submission: Colony morphology and habitat drive coral size patterns
 Authors: Marine Lechene, Mariana Álvarez-Noriega, Madison Becker, Maren Toor, Sophie Gordon, Tiny Remmers, Will Figueira, Mia Hoogenboom, Renata Ferrari
 
 Files contained in the repository:
