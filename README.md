@@ -1,5 +1,5 @@
 # Size-structure
-Repository created for the submission: Colony morphology and habitat drive coral size patterns
+Repository created for the submission: Coral size patterns across environmental gradients and morphologies in Ecosphere.
 Authors: Marine Lechene, Mariana Álvarez-Noriega, Madison Becker, Maren Toor, Sophie Gordon, Tiny Remmers, Will Figueira, Mia Hoogenboom, Renata Ferrari
 
 Files contained in the repository:
